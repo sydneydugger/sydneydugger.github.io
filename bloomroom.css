@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe');
+
+@import url('https://fonts.googleapis.com/css?family=Belleza|Bellota+Text&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap');
+
+.logo1{
+    width:25%;
+    margin:20px auto;
+    display:block;
+}
+
+.nav-button1{
+    background:lightblue;
+    padding: 10px 15px;
+    margin-left:15px;
+    text-decoration:none;
+    color: cadetblue;
+}
+
+.bloomblog{
+    font-family: 'Bellota Text', cursive;
+}
+
+.authorfont{
+    font-family: 'Liu Jian Mao Cao', cursive;
+}
